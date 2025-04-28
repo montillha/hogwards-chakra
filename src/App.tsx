@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import Search from './components/Search'
 import Character from './components/Character';
-import { Box, Flex, Heading, Toast } from '@chakra-ui/react';
+import { Flex, Heading } from '@chakra-ui/react';
 
 function App() {
   type CharacterType={

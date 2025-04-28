@@ -1,4 +1,4 @@
-import { Card,  Image, Text, Box, Flex } from "@chakra-ui/react";
+import { Card,  Image, Text, Box } from "@chakra-ui/react";
 type CharacterType = {
   id:string;
   name: string;
