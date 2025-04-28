@@ -4,7 +4,7 @@ Uma aplicação React que lista personagens de Hogwarts, com informações como 
 
 ## 🌐 Deploy
 
-🔗 [Acesse o Deploy aqui]()
+🔗 [Acesse o Deploy aqui](https://hogwards-chakra.vercel.app/)
 
 ---
 
