@@ -12,15 +12,15 @@ type CharacterType = {
 const houseColor =(house:string)=>{
   switch(house){
     case 'Gryffindor':
-      return '#3b0c0c'; // vinho queimado
+      return '#3b0c0c'; 
     case 'Slytherin':
-      return '#072410'; // verde musgo escuro
+      return '#072410'; 
     case 'Ravenclaw':
-      return '#1A2238'; // azul petróleo
+      return '#1A2238'; 
     case 'Hufflepuff':
-      return '#4e430c' /*5e4f08 */; // dourado envelhecido
+      return '#4e430c' 
     default:
-      return '#1C1A1D'; // cinza grafite bem fechado
+      return '#1C1A1D'; 
   }
 };
 
