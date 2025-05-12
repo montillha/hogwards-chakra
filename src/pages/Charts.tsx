@@ -7,7 +7,7 @@ import { Box, Stack } from "@chakra-ui/react";
 import { useEffect } from "react";
 
 const Charts = () => {
-  const { characters, setCharacters } = useCharacterContext() || {
+  const {setCharacters } = useCharacterContext() || {
     characters: [],
     setCharacters: () => {},
   };
